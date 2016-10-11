@@ -1,0 +1,32 @@
+6 10
+A B C D E F
+A B 6
+B C 5
+A C 1
+A D 5
+D F 2
+E F 6
+C E 6
+B E 3
+A G 5
+C F 4
+C D 5
+7 10
+a b c d e f g
+a b 3
+b d 4
+a d 5
+b e 3
+d e 6
+a e 5
+a c 4
+c f 6
+s c 7
+f g 4
+c g 7
+6 4
+A B C D E F
+A B 4
+B C 5
+C D 6
+D E 7
